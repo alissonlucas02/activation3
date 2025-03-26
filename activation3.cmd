@@ -470,8 +470,11 @@ title  Extract $OEM$ Folder
 if not defined terminal mode 78, 30
 echo:
 echo:
-echo:
-echo:
+echo:         .--. .-.   .-.       .-----. .--.  .--. .-..-.
+echo:         : .; :: :   : :       `-. .-': .--': .--': :; :
+echo:         :    :: :   : :   _____ : :  : `;  : :   :    :
+echo:         : :: :: :__ : :__:_____:: :  : :__ : :__ : :: :
+echo:         :_;:_;:___.':___.'      :_;  `.__.'`.__.':_;:_;
 echo:                     Extract $OEM$ folder on the desktop           
 echo:         ____________________________________________________________
 echo:
